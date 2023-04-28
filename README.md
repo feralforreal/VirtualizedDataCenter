@@ -17,10 +17,6 @@ The CPU , RAM, Storage constraints of physical equipment doesn’t apply – We 
 Its highly flexible, scalable and secure. They can be isolated and segmented as needed. Its scalable as XYZ components for servers are a lot cheaper and readily available. 
 
 Tech stack : 
-Linux (Ubuntu)
-Docker
-Python
-Shell Scripting
-Ansible 
+Linux (Ubuntu), Docker,Python, Shell Scripting, Promethus, Jenkins, Github, Jinja2, Ansible, Netmiko 
 
 
