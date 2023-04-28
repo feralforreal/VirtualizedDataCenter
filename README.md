@@ -1,4 +1,4 @@
-# VitrualDataCenter
+# VitrualizedDataCenter
 
 The Data Center design adheres to the following considerations:
 1. Security First approach – The data center network must be protected from both external and internal security vulnerabilities.
