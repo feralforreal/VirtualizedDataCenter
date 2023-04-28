@@ -29,6 +29,7 @@ The Customer Edge network connects to the Internet and peering ISPS
 Any egress and ingress traffic to and from the network is firewall protected.
 ![DC3](https://user-images.githubusercontent.com/132085748/235199892-3c52539b-317b-4597-bebe-56abb86946e4.png)
 
+The out-of-band network is used for CI/CD, Promethus and Network Management and Configuration
 ![DC4](https://user-images.githubusercontent.com/132085748/235199914-193c2ec6-52cf-4961-8b71-d5b1ac35aaf4.png)
 
 ![DC5](https://user-images.githubusercontent.com/132085748/235199954-3bcd1cf0-1eec-4466-934b-8c84ae9e6aaf.png)
