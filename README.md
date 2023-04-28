@@ -6,7 +6,7 @@ According to Verizon Data Breach investigations – Insider threats accounted fo
 2. I followed Fully Automated and Pipelined Development Cycle
 3. The data center is designed to be fully modifiable and managed from the management connection. The management connection requires multiple unit tests to be ran, and code approvals before the changes can be made.
 4. Fully modular Design – The data center must be fully modular, this allows for any service to be added or removed without affecting any other service.
-On Demand Testing Scenario – Dynamic on-demand creation of a testing playground, where new features can be tested before being deployed. 
+5. On Demand Testing Scenario – Dynamic on-demand creation of a testing playground, where new features can be tested before being deployed. 
 
 
 All the networking deployed in the data center is virtualized, this provides for multiple advantages over traditional networking:
