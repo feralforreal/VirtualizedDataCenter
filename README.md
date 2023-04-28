@@ -26,6 +26,7 @@ All the customer edge and private edge routers are built on Docker Images
 The Customer Edge network connects to the Internet and peering ISPS
 ![DC2](https://user-images.githubusercontent.com/132085748/235199848-d1c8a910-3710-4878-b197-fd12c39b9f58.png)
 
+Any egress and ingress traffic to and from the network is firewall protected.
 ![DC3](https://user-images.githubusercontent.com/132085748/235199892-3c52539b-317b-4597-bebe-56abb86946e4.png)
 
 ![DC4](https://user-images.githubusercontent.com/132085748/235199914-193c2ec6-52cf-4961-8b71-d5b1ac35aaf4.png)
