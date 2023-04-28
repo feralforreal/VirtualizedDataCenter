@@ -20,22 +20,23 @@ All the networking deployed in the data center is virtualized, this provides for
 Tech stack : 
 Linux (Ubuntu), Docker, Python, Shell Scripting, Promethus, Jenkins, Github, Jinja2, Ansible, Netmiko, OpenFlow, Grafana
 
-All the customer edge and private edge routers are built on Docker Images 
+
+1.All the customer edge and private edge routers are built on Docker Images 
 ![DC1](https://user-images.githubusercontent.com/132085748/235200084-07f8ff2f-b5ef-4db2-9595-aa6ebc8dbdb5.png)
 
-The Customer Edge network connects to the Internet and peering ISPS
+2.The Customer Edge network connects to the Internet and peering ISPS
 ![DC2](https://user-images.githubusercontent.com/132085748/235199848-d1c8a910-3710-4878-b197-fd12c39b9f58.png)
 
-Any egress and ingress traffic to and from the network is firewall protected.
+3.Any egress and ingress traffic to and from the network is firewall protected.
 ![DC3](https://user-images.githubusercontent.com/132085748/235199892-3c52539b-317b-4597-bebe-56abb86946e4.png)
 
-The out-of-band network is used for CI/CD, Promethus and Network Management and Configuration
+4.The out-of-band network is used for CI/CD, Promethus and Network Management and Configuration
 ![DC4](https://user-images.githubusercontent.com/132085748/235199914-193c2ec6-52cf-4961-8b71-d5b1ac35aaf4.png)
 
-SDN Controller is an add-on and fully auto-controlled from data center using OpenFlow 
+5.SDN Controller is an add-on and fully auto-controlled from data center using OpenFlow 
 ![DC5](https://user-images.githubusercontent.com/132085748/235199954-3bcd1cf0-1eec-4466-934b-8c84ae9e6aaf.png)
 
-Implementation 
+6.Implementation 
 ![image](https://user-images.githubusercontent.com/132085748/235204235-df9e76b7-97a2-4987-864f-369fc637c3cc.png)
 
 
