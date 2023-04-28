@@ -1,6 +1,6 @@
 # VitrualDataCenter
 
-Data Center must adheres to the following considerations:
+The Data Center design adheres to the following considerations:
 Security First approach – The data center network must be protected from both external and internal security vulnerabilities.
 According to Verizon Data Breach investigations – Insider threats accounted for 30% of data breaches while outsider threats accounted for 70%
 Fully Automated and Pipelined Development Cycle
