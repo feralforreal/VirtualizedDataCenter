@@ -16,7 +16,20 @@ No requirement of transporting network equipment – The only physical purchase 
 The CPU , RAM, Storage constraints of physical equipment doesn’t apply – We can automatically provision more XYZ components to the virtualized equipment, instantly increasing it capabilities.
 Its highly flexible, scalable and secure. They can be isolated and segmented as needed. Its scalable as XYZ components for servers are a lot cheaper and readily available. 
 
+
 Tech stack : 
 Linux (Ubuntu), Docker,Python, Shell Scripting, Promethus, Jenkins, Github, Jinja2, Ansible, Netmiko 
+
+![image](https://user-images.githubusercontent.com/132085748/235199800-fcf42ed6-0e0f-46d1-8111-b52ff13c0184.png)
+
+![DC2](https://user-images.githubusercontent.com/132085748/235199848-d1c8a910-3710-4878-b197-fd12c39b9f58.png)
+
+![DC3](https://user-images.githubusercontent.com/132085748/235199892-3c52539b-317b-4597-bebe-56abb86946e4.png)
+
+![DC4](https://user-images.githubusercontent.com/132085748/235199914-193c2ec6-52cf-4961-8b71-d5b1ac35aaf4.png)
+
+![DC5](https://user-images.githubusercontent.com/132085748/235199954-3bcd1cf0-1eec-4466-934b-8c84ae9e6aaf.png)
+
+
 
 
