@@ -20,8 +20,8 @@ Its highly flexible, scalable and secure. They can be isolated and segmented as 
 Tech stack : 
 Linux (Ubuntu), Docker,Python, Shell Scripting, Promethus, Jenkins, Github, Jinja2, Ansible, Netmiko 
 
+All the customer edge and private edge routers are built on Docker Images 
 ![DC1](https://user-images.githubusercontent.com/132085748/235200084-07f8ff2f-b5ef-4db2-9595-aa6ebc8dbdb5.png)
-
 
 ![DC2](https://user-images.githubusercontent.com/132085748/235199848-d1c8a910-3710-4878-b197-fd12c39b9f58.png)
 
