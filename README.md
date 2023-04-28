@@ -32,8 +32,10 @@ Any egress and ingress traffic to and from the network is firewall protected.
 The out-of-band network is used for CI/CD, Promethus and Network Management and Configuration
 ![DC4](https://user-images.githubusercontent.com/132085748/235199914-193c2ec6-52cf-4961-8b71-d5b1ac35aaf4.png)
 
+SDN Controller is an add-on and fully auto-controlled from data center using OpenFlow 
 ![DC5](https://user-images.githubusercontent.com/132085748/235199954-3bcd1cf0-1eec-4466-934b-8c84ae9e6aaf.png)
 
+Implementation 
 ![image](https://user-images.githubusercontent.com/132085748/235204235-df9e76b7-97a2-4987-864f-369fc637c3cc.png)
 
 
